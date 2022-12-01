@@ -13,7 +13,7 @@ The design of my project is a user input into a list for each category. After th
 input selections are added a random generated number between 0-2 is picked to
 decide which index is then selected into the fortune story.
 
-#Conclusions
+# Conclusions
 During this project I've learned that coding is a process. You can write a game or
 code in multiple different ways. During this process I tried numerous ways to rewrite
 the same process.
